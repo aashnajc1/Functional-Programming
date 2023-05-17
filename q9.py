@@ -1,4 +1,4 @@
-# Write a Python program to add two given lists and find the difference between lists.
+# Write a Python program to filter only vowels from given sequence.
 def fun(variable):
     letters = ['a', 'e', 'i', 'o', 'u']
     if (variable in letters):
